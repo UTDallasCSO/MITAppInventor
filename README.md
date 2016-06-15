@@ -14,5 +14,5 @@
 * Zeal to laugh at mistakes and learn from them
 
 ##### Coding using drag & drop
-![slide 3] (https://utdallas.box.com/shared/static/dcxsv3zovctxemlsxboug1uapyendxf6.png)
+![slide 3] (http://i1305.photobucket.com/albums/s555/csk12utdsk12/MIT%20App%20Inventor/slide%204_zpsm5vgkayg.png)
 
