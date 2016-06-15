@@ -1,7 +1,7 @@
 ## Contents
 #### Day 1
 * Gmail ID creation (only if not available)
-* Introduction to [MIT App Inventor Website](ai2.appinventor.mit.edu)
+* Introduction to [MIT App Inventor Website](http://ai2.appinventor.mit.edu)
 
 #### Day 2
 * Introduction to Apps, Components, Properties & Event Handlers
