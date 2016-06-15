@@ -16,8 +16,3 @@
 ##### Coding using drag & drop
 ![slide 3] (https://utdallas.box.com/shared/static/dcxsv3zovctxemlsxboug1uapyendxf6.png)
 
-## Contents
-#### Day 1
-* Gmail ID creation (only if not available)
-* Introduction to [MIT App Inventor Website](ai2.appinventor.mit.edu)
-#### Day 2
