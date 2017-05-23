@@ -1,4 +1,4 @@
-##### [Contents] (https://github.com/UTDallasCSO/mitAppInventor/blob/master/contents.mdown)
+##### [Contents](https://github.com/UTDallasCSO/mitAppInventor/blob/master/contents.mdown)
 # MIT App Inventor 
 
 ##### Features
